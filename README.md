@@ -1,12 +1,6 @@
 
 ## Oi eu sou o Victor Thiersch! 👋
 
-- 🔭 Atualmente eu trabalho com ETL ...
-- 🌱 Estou aprendendo a desenvolver em Front-End ...
-- 👯 Compartilhando por aqui meus conhecimentos adquiridos e projetos realizados!
-
-##
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorthiersch&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorthiersch&layout=compact&langs_count=7&theme=ayu-mirage"/>
